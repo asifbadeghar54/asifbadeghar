@@ -24,7 +24,7 @@ Currently, I'm focusing on two mobile applications:
 - Collaborating with developers to implement designs efficiently.
 
 ### 📈 GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=asifbadeghar54)
 
 ### 🛠️ Technologies & Tools:
 - 🖥️ **Languages**:  HTML,CSS,JavaScript, PHP,
