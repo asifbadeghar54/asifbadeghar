@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Asif Badeghar 👋
 
-Welcome to my GitHub profile! I’m a passionate software engineer who loves to build things with **React**, **Node.js**, and **Python**. I’m currently learning **GraphQL** and **Cloud Computing**. Here you’ll find my personal projects, contributions to open-source, and some fun experiments!
+Welcome to my GitHub profile! I’m a passionate software engineer who loves to build things with **React Native **, **React**, **Codeigniter** . Here you’ll find my personal projects, contributions to open-source, and some fun experiments!
 
 ## 🚀 What I'm Working On
 
